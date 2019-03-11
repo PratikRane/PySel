@@ -9,5 +9,6 @@ Web automation framework using Selenium WebDriver implemented in Python
     - [html-testRunner](https://pypi.org/project/html-testRunner/)
 4. In case you are working with Eclipse, also install [PyDev](http://www.pydev.org/) from the [Eclipse Marketplace](http://marketplace.eclipse.org/content/pydev-python-ide-eclipse?mpc=true&mpc_state=)
 
-
+## Contributors
+1. Pratik Rane
 
