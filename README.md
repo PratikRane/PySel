@@ -1,7 +1,7 @@
-## PySel
+# PySel
 Web automation framework using Selenium WebDriver implemented in Python
 
-# Software Requirements
+## Software Requirements
 1. Install [Python 3.7](https://www.python.org/downloads/)
 2. Install [Eclipse](https://www.eclipse.org/downloads/)/[PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 3. Install following modules using pip
